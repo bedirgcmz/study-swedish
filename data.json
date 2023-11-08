@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "sentence": "<W class='brown'>Ek olarak</W>, ben bir takım oyuncusuyum <W class= 'yellow'>da</W>",
+    "translate": "<W class= 'brown'>Ytterligare</W>, jag är <W class= 'yellow'>också</W> en lagspelare.",
+    "key_words": ["Ytterligare"],
+    "language": "swedish",
+    "state": "empty"
+  },
+  {
+    "id": 2,
+    "sentence": "2 yıldan sonra, İsveç'te <w class='red'>yaşamaya alıştım</w>",
+    "translate": "Efter två år, <w class='red'>har jag vant mig att bo</w> i Sverige.",
+    "key_words": ["har jag vant mig att bo"],
+    "language": "swedish",
+    "state": "empty"
+  },
+  {
+    "id": 3,
+    "sentence": "İsveççe <w class='green'>öğreniyorum,</w> ama <w class='blue'>konuşmakta zorlanıyor</w>um",
+    "translate": "Jag <w class='green'>lär mig</w> svenska, men jag har <w class='blue'>svårt att prata.</w>",
+    "key_words": ["har jag vant mig att bo"],
+    "language": "swedish",
+    "state": "empty"
+  }
+]
